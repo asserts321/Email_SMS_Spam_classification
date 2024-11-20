@@ -1,0 +1,24 @@
+ECHO is on.
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.idea/
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+temp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
